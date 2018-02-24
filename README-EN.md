@@ -1,6 +1,8 @@
 # deepl-chrome-extension [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]()
 DeepL extension for Chrome, Vivaldi, Opera, and probably other browsers based on Chromium.
 
+If you're a Twitter Addict go look at this [extension](https://github.com/antoineraulin/twitter-deepl-translation).
+
 ## Installation
 ### Developer mode :
 Open [chrome://extensions](chrome://extensions) (vivaldi://extensions), activate the developer mode, click on "Load uncompressed extension...", and select the folder of the downloaded extension.
