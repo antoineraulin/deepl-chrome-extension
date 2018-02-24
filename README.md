@@ -1,4 +1,4 @@
-# deepl-chrome-extension
+# deepl-chrome-extension [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)]()
 DeepL extension pour Chrome, Vivaldi, Opera, et surement d'autres navigateurs basés sur Chromium.
 
 ## Installation
