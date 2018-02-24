@@ -3,6 +3,8 @@ DeepL extension pour Chrome, Vivaldi, Opera, et surement d'autres navigateurs ba
 
 **If you speak English, or if your language is not French [click here](https://github.com/antoineraulin/deepl-chrome-extension/blob/master/README-EN.md).**
 
+If you're a Twitter Addict go look at this [extension](https://github.com/antoineraulin/twitter-deepl-translation).
+
 ## Installation
 ### Mode développeur :
 Ouvir [chrome://extensions](chrome://extensions) (vivaldi://extensions), activer le mode "développeur", cliquer sur "Charger une extension décompactée...", et sélectionner le dossier de l'extension téléchargé.
